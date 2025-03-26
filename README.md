@@ -19,10 +19,9 @@ This repository contains various sketches and example codes for the **nRF52840**
 ```
 /
 ├── BLE/               # Bluetooth-related sketches
-├── PowerManagement/   # Low-power techniques and sleep modes
+
 ├── Sensors/           # Interfacing with various sensors
-├── GPIO/              # Basic GPIO usage
-├── USB/               # USB and Serial communication
+
 └── README.md          # This file
 ```
 
